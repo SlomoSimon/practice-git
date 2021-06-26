@@ -1,0 +1,40 @@
+* { font-family: Arial}
+img {
+    height: 250 px;
+    width: 250 px;
+    
+}
+
+header {
+    background-color: orange;
+    border: black 1px solid;
+    text-decoration: none;
+}
+
+.item1 {
+    border: black 1px solid;    
+    background-color: lightblue;
+    text-align: center;
+    padding: 20px;
+}
+
+.item2 {
+    border: black 1px solid;
+    background-color: lightsalmon;
+    text-align: center;
+    padding: 20px;    
+}
+
+p {
+    border: black 1px solid;
+    background-color:lemonchiffon;
+    text-align: center;
+    Margin: auto 200px;
+    max-height: 250px;
+    Padding: 100px;
+}
+
+img { 
+    padding-top: 20px;
+    max-width: 250px;
+}
